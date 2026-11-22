@@ -35,7 +35,7 @@
 
 Автоматизация тестирования REST API локально развернутого сайта на WordPress с дополнительной проверкой данных непосредственно в базе данных.
 
-*Java, REST Assured, JUnit 5, MySQL, JDBC, Jackson, AssertJ*
+*Java, REST Assured, JUnit 5, MySQL, JDBC, Jackson, AssertJ, Maven*
 
 **5. [Registration Form UI Tests](https://github.com/msnchk/registration-form-test) (2025)**
 
@@ -48,4 +48,10 @@
 
 Реализация тестов для проверки отправки и получения сообщений, работы очередей и топиков.
 
-*Java, Apache Kafka, RabbitMQ, TestNG, Jackson*
+*Java, Apache Kafka, RabbitMQ, TestNG, Maven, Jackson*
+
+**7. [WireMock Tests](https://github.com/msnchk/wiremock-lesson) (2025)**
+
+Автоматизация тестирования REST API с использованием WireMock. Реализация mock- и proxy-тестов, а также проверок на реальном API, [сайт](https://reqres.in/).
+
+*Java, WireMock, REST Assured, JUnit 5, Maven, Jackson*
